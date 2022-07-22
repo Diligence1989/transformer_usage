@@ -1,1 +1,1 @@
-
+如NER和POS都属于sequence labeling的操作。NER可以参见 https://github.com/Diligence1989/pytorch_bert_bilstm_crf_ner
